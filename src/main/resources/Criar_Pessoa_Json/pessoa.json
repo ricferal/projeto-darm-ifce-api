@@ -1,0 +1,14 @@
+{
+   "nome": "FULANO DE TAL",
+   "endereco": {
+         "logradouro":"teste2",
+         "numero":"teste2",
+         "bairro":"teste2",
+         "cep":"teste2",
+         "cidade":"Fortaleza",
+         "estado":"CE"
+   },
+   
+   "ativo": "true"
+   
+}

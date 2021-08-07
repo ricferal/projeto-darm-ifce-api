@@ -1,0 +1,13 @@
+{
+    "nome": "RICARDO FERNANDES",
+    "endereco": {
+        "logradouro": "teste",
+        "numero": "teste",
+        "complemento": "teste",
+        "bairro": "Presidente Kennedy",
+        "cep": "60356000",
+        "cidade": "Fortaleza",
+        "estado": "CE"
+    },
+    "ativo": true
+}
